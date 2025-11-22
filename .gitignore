@@ -1,0 +1,11 @@
+# Ignore large data files
+data/*.csv
+data/*.json
+data/*.txt
+
+# Ignore build output
+out/
+*.class
+
+# Ignore IntelliJ project files
+.idea/
